@@ -1,12 +1,20 @@
-# React + Vite
+#🎶 Canciones Favoritas - React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi primer proyecto en React, una aplicación simple donde podés guardar tus canciones favoritas a través de un formulario y ver la lista renderizada dinámicamente.
 
-Currently, two official plugins are available:
+🔹 Tecnologías usadas:
+⚛️ React + JSX
+🎨 Estilos en CSS
+⚡ Vite para el build y deploy
+🌐 Conexión con un endpoint para manejar el formulario
+♻️ Reutilización de componentes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 Lo que aprendí con este proyecto:
+Cómo crear y estructurar componentes en React.
+Manejo de props y estados para actualizar la interfaz en tiempo real.
+Reutilización de componentes para mantener el código más ordenado.
+Integración de un formulario con un endpoint externo (simulando el uso de una API).
+Deploy directo desde Visual Studio Code usando Vite + GitHub Pages.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔹 Deploy:
+👉 Podés probar la app acá: [Canciones Favs React](https://agusescobbar.github.io/cancionesFavsReact)
